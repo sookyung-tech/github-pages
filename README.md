@@ -1,4 +1,3 @@
-# github-pages
 <!DOCTYPE html>
 <html>
 <head>
